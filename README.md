@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -256,7 +256,7 @@
 <body>
   <div id="particles-js"></div>
   <header>
-    <h1 style="color: rgb(241, 287, 17);">SOFI MUSIC</h1>
+    <h1 style="color: rgb(241, 287, 17);">YANYRIS MUSIC</h1>
   </header>
   <section id="catalogo">
     <h2>🎧 RADIO DE TOO UN CHIN🎼</h2>
@@ -271,14 +271,14 @@
     </div>
   </section>
   <section id="retro-radio">
-    <h2>🎸 RETRO HITS 80s & 90s 🎹</h2>
+    <h2>🎸YANYRIS RETRO HITS 80s & 90s 🎹</h2>
     <p>¡Viaja en el tiempo con los mejores clásicos! Rock, Pop & Oldies 🎵</p>
     <a href="https://www.regresoalos80y90.com" target="_blank" class="retro-button">
       ▶️ ESCUCHA REGRESO A LOS 80s Y 90s
     </a>
   </section>
   <section id="galeria-videos">
-    <h2>SOFI MUSIC  </h2>
+    <h2>YANYRIS  MUSIC  </h2>
     <p>Canciones que animan 'Quieres mas' Ya sabes dónde encontrarme, MI CUÑAAA FELIZ CUMPLEAÑOS</p>
     <div class="playlist">
       <div>
@@ -298,7 +298,7 @@
     </div>
   </section>
   <section id="videos">
-    <h2>VIDEOS SOFI </h2>
+    <h2>VIDEOS YANYRIS </h2>
     <div class="video-grid">
       <div class="video-item">
         <iframe width="1316" height="740" src="https://www.youtube.com/embed/Lms0IAqYXHU" title="24 dic dominicano dj don sebass" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -318,7 +318,7 @@
     </div>
   </section>
   <section id="recomendacion-navegador">
-    <h2>🧭 Recomendación de Mi Cuñao Rodrigo</h2>
+    <h2>🧭 Recomendación  Rodrigo</h2>
     <p>Para una mejor experiencia, abre este sitio en Navegadores  <strong>Google Chrome</strong>, <strong>Mozilla Firefox</strong> o <strong>Microsoft Edge</strong>.</p>
   </section>
   <section id="contacto">
@@ -334,7 +334,7 @@
     </div>
   </section>
   <footer>
-    <p>&copy; 2025 SOFI ROSA. Todos los derechos reservados.</p>
+    <p>&copy; 2025 YANYRIS. Todos los derechos reservados.</p>
   </footer>
   <script>
     const menuToggle = document.getElementById('menu-toggle');
