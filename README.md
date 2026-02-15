@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Invitación de Cumpleaños - Angelica </title>
+    <title>Invitación de Cumpleaños - YANIRI </title>
 
     <!-- Open Graph / WhatsApp -->
-    <meta property="og:title" content="🎉 Invitación de Cumpleaños - Angelica" />
-    <meta property="og:description" content="¡Estás invitado! 📅 Sábado 21 de Febrero - 18:00 hs - Barcelona" />
-    <meta property="og:image" content="https://rodrigoratouu-code.github.io/angelica/)/imagen.webp" />
+    <meta property="og:title" content="🎉 Invitación de Cumpleaños - Yaniris" />
+    <meta property="og:description" content="¡Estás invitado! 📅 Sábado 26 de Febrero - 18:00 hs - Barcelona" />
+    <meta property="og:image" content="https://rodrigoratouu-code.github.io/YANIRI/)/imagen.webp" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://rodrigoratouu-code.github.io/angelica/" />
+    <meta property="og:url" content="https://rodrigoratouu-code.github.io/YANIRI/" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -329,19 +329,19 @@
 
     <!-- Tarjeta de invitación -->
     <section class="card">
-        <img src="radioRD.webp" alt="Cumpleaños de Aangelica" class="card-img">
+        <img src="radioRD.webp" alt="Cumpleaños de YANIRI" class="card-img">
 
         <h1>🎉 ¡Estás invitado! </h1>
         <p class="subtitle">Celebramos el cumpleaños de</p>
-        <h2 class="name">Angelica</h2>
+        <h2 class="name">YANIRI</h2>
 
         <div class="details">
-            <strong>📅</strong> Sábado 21 de Febrero<br>
+            <strong>📅</strong> Sábado 26 de Febrero<br>
             <strong>🕒</strong> 18:00 hs<br>
             <strong>📍</strong> Barcelona
         </div>
 
-        <a href="https://wa.me/34685593532?text=¡Confirmo%20mi%20asistencia%20al%20cumpleaños%20de%20Angelica!" 
+        <a href="https://wa.me/34655549219?text=¡Confirmo%20mi%20asistencia%20al%20cumpleaños%20de%20YANIRI!" 
            target="_blank" 
            id="btn-confirmar" 
            class="btn">
