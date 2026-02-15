@@ -1,20 +1,21 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Invitación de Cumpleaños - YANIRI </title>
+    <title>Invitación de Cumpleaños - Yaniris </title>
 
     <!-- Open Graph / WhatsApp -->
-    <meta property="og:title" content="🎉 Invitación de Cumpleaños - Yaniris" />
-    <meta property="og:description" content="¡Estás invitado! 📅 Sábado 26 de Febrero - 18:00 hs - Barcelona" />
-    <meta property="og:image" content="https://rodrigoratouu-code.github.io/YANIRI/)/imagen.webp" />
+    <meta property="og:title" content="🎉 Invitación de Cumpleaños - Angelica" />
+    <meta property="og:description" content="¡Estás invitado! 📅 Sábado 22 de Febrero - 18:00 hs - Barcelona" />
+    <meta property="og:image" content="https://TU-USUARIO.github.io/TU-REPO/imagen.webp" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://rodrigoratouu-code.github.io/YANIRI/" />
+    <meta property="og:url" content="https://TU-USUARIO.github.io/TU-REPO/" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="🎉 Invitación de Cumpleaños - Ariel" />
-    <meta name="twitter:description" content="¡Estás invitado! 📅 Sábado 21 de Febrero - 18:00 hs - Barcelona" />
+    <meta name="twitter:description" content="¡Estás invitado! 📅 Sábado 22 de Febrero - 18:00 hs - Barcelona" />
     <meta name="twitter:image" content="https://TU-USUARIO.github.io/TU-REPO/imagen.webp" />
 
     <style>
@@ -77,11 +78,11 @@
 
         .star {
             position: absolute;
-            width: 2px;
-            height: 2px;
+            width: 6px;
+            height: 6px;
             background: white;
             border-radius: 50%;
-            animation: twinkle 3s infinite;
+            animation: twinkle 2s infinite;
         }
 
         @keyframes twinkle {
@@ -328,11 +329,11 @@
 
     <!-- Tarjeta de invitación -->
     <section class="card">
-        <img src="radioRD.webp" alt="Cumpleaños de YANIRI" class="card-img">
+        <img src="radioRD.webp" alt="Cumpleaños de Aangelica" class="card-img">
 
-        <h1>🎉 ¡Estás invitado! </h1>
+        <h1> ¡Estás invitado! </h1>
         <p class="subtitle">Celebramos el cumpleaños de</p>
-        <h2 class="name">YANIRI</h2>
+        <h2 class="name">yaniris</h2>
 
         <div class="details">
             <strong>📅</strong> Sábado 26 de Febrero<br>
@@ -340,7 +341,7 @@
             <strong>📍</strong> Barcelona
         </div>
 
-        <a href="https://wa.me/34655549219?text=¡Confirmo%20mi%20asistencia%20al%20cumpleaños%20de%20YANIRI!" 
+        <a href="https://wa.me/XXXXXXXXXXX?text=¡Confirmo%20mi%20asistencia%20al%20cumpleaños%20de%20Ariel!" 
            target="_blank" 
            id="btn-confirmar" 
            class="btn">
@@ -350,7 +351,7 @@
 
     <p class="mini-link">
         ¿Quieres una tarjeta digital como esta?
-        <a href="https://wa.me/34617602632?text=Hola%2C%20quiero%20una%20tarjeta%20digital%20personalizada" target="_blank">
+        <a href="https://wa.me/34XXXXXXXXX?text=Hola%2C%20quiero%20una%20tarjeta%20digital%20personalizada" target="_blank">
             Pídela aquí
         </a>
     </p>
@@ -398,3 +399,4 @@
 </body>
 </html>
 
+ 
