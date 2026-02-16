@@ -340,7 +340,7 @@
             <strong>📍</strong> Barcelona
         </div>
 
-        <a href="https://wa.me/XXXXXXXXXXX?text=¡Confirmo%20mi%20asistencia%20al%20cumpleaños%20de%20Ariel!" 
+        <a href="https://wa.me/34655549219?text=¡Confirmo%20mi%20asistencia%20al%20cumpleaños%20de%20Yaniris!" 
            target="_blank" 
            id="btn-confirmar" 
            class="btn">
@@ -350,7 +350,7 @@
 
     <p class="mini-link">
         ¿Quieres una tarjeta digital como esta?
-        <a href="https://wa.me/34XXXXXXXXX?text=Hola%2C%20quiero%20una%20tarjeta%20digital%20personalizada" target="_blank">
+        <a href="https://wa.me/34617615732?text=Hola%2C%20quiero%20una%20tarjeta%20digital%20personalizada" target="_blank">
             Pídela aquí
         </a>
     </p>
