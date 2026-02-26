@@ -14,7 +14,7 @@
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="🎉 Invitación de Cumpleaños - YANIRI" />
-    <meta name="twitter:description" content="¡Estás invitado! 📅 Sábado 22 de Febrero - 18:00 hs - Barcelona" />
+    <meta name="twitter:description" content="¡Estás invitado! 📅 Sábado 27 de Febrero - 18:00 hs - Barcelona" />
     <meta name="twitter:image" content="https://TU-USUARIO.github.io/YANIRI/imagen.webp" />
 
     <style>
@@ -335,7 +335,7 @@
         <h2 class="name">yaniris</h2>
 
         <div class="details">
-            <strong>📅</strong> Sábado 26 de Febrero<br>
+            <strong>📅</strong> Sábado 27 de Febrero<br>
             <strong>🕒</strong> 18:00 hs<br>
             <strong>📍</strong> Barcelona
         </div>
