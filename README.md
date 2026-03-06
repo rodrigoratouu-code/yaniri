@@ -9,7 +9,7 @@
     <meta property="og:description" content="¡Estás invitado! 📅 Sábado 27 de Febrero - 18:00 hs - Barcelona" />
     <meta property="og:image" content="https://rodrigoratouu-code.github.io/yaniri/imagen.webp" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://rodrigorato.uu-code.github.io/yaniri/" />
+    <meta property="og:url" content="https://rodrigoratouu-code.github.io/yaniri/" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
